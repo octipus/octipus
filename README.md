@@ -8,7 +8,7 @@ Shopify E-commerce developer with over 5 years of experience in design, developm
 
 * 🌍  I'm based in London, Metaverse
 * ✉️  You can contact me at [ocontis.web@gmail.com](mailto:ocontis.web@gmail.com)
-* 🚀  I'm currently working on [Medik8](http://www.medik8.com/)
+* 🚀  I'm currently working on [YuMove](https://yumove.co.uk/)
 
 ### Skills
 
