@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Octavian Contis
 =======================================================================================================================================
 
-Shopify Plus Developer, E-commerce Consultant
+Shopify Plus Developer, Solutions Architect, E-commerce Consultant
 ---------------------------------------------
 
-Shopify E-commerce developer with over 5 years of experience in design, development, and brand consultancy. With a proven track record of successfully launching and maintaining online stores for clients, I offer expert advice on ecommerce strategy and user experience design. Whether you are looking to launch a new online store or optimize an existing one, chances are that I am well-equipped to help you succeed in the digital space.
+Shopify E-commerce developer with over 7 years of experience in design, development, and brand consultancy. With a proven track record of successfully launching and maintaining online stores for clients, I offer expert advice on ecommerce strategy and user experience design. Whether you are looking to launch a new online store or optimize an existing one, chances are that I am well-equipped to help you succeed in the digital space.
 
 * 🌍  I'm based in London, Metaverse
 * ✉️  You can contact me at [ocontis.web@gmail.com](mailto:ocontis.web@gmail.com)
