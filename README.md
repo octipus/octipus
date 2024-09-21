@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Shopify Plus Developer, Solutions Architect, E-commerce Consultant
 ---------------------------------------------
 
-Shopify E-commerce developer with over 7 years of experience in design, development, and brand consultancy. With a proven track record of successfully launching and maintaining online stores for clients, I offer expert advice on ecommerce strategy and user experience design. Whether you are looking to launch a new online store or optimize an existing one, chances are that I am well-equipped to help you succeed in the digital space.
+Shopify E-commerce developer with over 7 years of experience in theme development, app development and brand consultancy. </br>
+
+With a proven track record of successfully launching and maintaining online stores for clients, I offer expert advice on ecommerce strategy and solutions architecture. </br>
+
+Whether you are looking to launch a new online store or optimize an existing one, chances are that I am well-equipped to help you succeed in the digital space.</br>
 
 * 🌍  I'm based in London, Metaverse
 * ✉️  You can contact me at [ocontis.web@gmail.com](mailto:ocontis.web@gmail.com)
