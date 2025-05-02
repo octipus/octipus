@@ -12,7 +12,8 @@ Whether you are looking to launch a new online store or optimize an existing one
 
 * 🌍  I'm based in London, Metaverse
 * ✉️  You can contact me at [ocontis.web@gmail.com](mailto:ocontis.web@gmail.com)
-* 🚀  I'm currently working on [YuMove](https://yumove.co.uk/)
+* 🚀 Founder and owner at [oContis Studio - Creative Shopify Consultancy](https://ocontis.studio/)
+* 🧪 I'm currently crafting wizardries at [Enchant Digital](https://enchant.digital/)
 
 ### Skills
 
