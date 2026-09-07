@@ -43,5 +43,5 @@ Whether you are looking to launch a new online store or optimize an existing one
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/octipus"><img src="https://github-readme-stats.vercel.app/api?username=octipus&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="octipus's GitHub stats" /></a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/octipus?cardType=level-alternate&theme=merko&fontFamily=Syne&preferLogin=true)](https://git.io/awesome-stats-card)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=octipus&theme=github_dark)
